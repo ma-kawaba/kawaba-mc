@@ -1,12 +1,12 @@
 { 
   "pack": {
-    "pack_format": 9,
-    "description": "kawaba u 'mankalapata' na!"
+    "pack_format": 34,
+    "description": "'majinkalapata' ukawaba na!"
   },
   "language": {
     "kwb_en": {
       "name": "kawaba",
-      "region": "go'kawaba",
+      "region": "mawaba",
       "bidirectional": false
     }
   }
